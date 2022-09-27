@@ -1,0 +1,7 @@
+
+const edad = prompt ("Cual es tu edad?")
+undefined
+edad
+'33'
+const num_edad = Number (edad)
+undefined
